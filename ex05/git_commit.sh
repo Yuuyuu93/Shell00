@@ -1,3 +1,2 @@
 #!/bin/sh
-git log --pretty:%H -5
-eco
+git log --pretty='%H' -5
